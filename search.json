@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "learn.html",
+    "href": "learn.html",
+    "title": "Learn",
+    "section": "",
+    "text": "Introduction to population PK modelling.\nThe one-compartment IV bolus model can be written as:\n\\[C(t) = \\frac{Dose}{V}e^{-CL/V \\cdot t}\\]"
+  },
+  {
+    "objectID": "learn.html#population-pharmacokinetics",
+    "href": "learn.html#population-pharmacokinetics",
+    "title": "Learn",
+    "section": "",
+    "text": "Introduction to population PK modelling.\nThe one-compartment IV bolus model can be written as:\n\\[C(t) = \\frac{Dose}{V}e^{-CL/V \\cdot t}\\]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nKar Weng’s LinkedIn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sydney Pharmacometrics",
+    "section": "",
+    "text": "Welcome to Sydney Pharmacometrics."
+  },
+  {
+    "objectID": "index.html#topics",
+    "href": "index.html#topics",
+    "title": "Sydney Pharmacometrics",
+    "section": "Topics",
+    "text": "Topics\n\nPopulation pharmacokinetics\nCoffee"
+  }
+]
